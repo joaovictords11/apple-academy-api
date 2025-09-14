@@ -137,6 +137,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>apple-academy-api</finalName>
     </build>
 
 </project>
